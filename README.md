@@ -16,7 +16,6 @@ This project uses a neural network to classify SMS messages as **Spam** or **Ham
 - TensorFlow / Keras
 - Pandas / NumPy
 - Scikit-learn
-- NLTK (for optional advanced text cleaning)
 
 ---
 
